@@ -11,8 +11,6 @@ import 'package:furniture_ui/homepage/view_model/product_viewmodel.dart';
 import 'package:furniture_ui/homepage/models/product_model.dart';
 import 'package:furniture_ui/Homepage/models/sample_product.dart';
 
-// testing
-
 Route _createRouteToFavorites() {
   return PageRouteBuilder(
     pageBuilder: (context, animation, secondaryAnimation) => const FavoritePage(),
