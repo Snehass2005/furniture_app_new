@@ -21,7 +21,7 @@ class CheckoutPage extends StatelessWidget {
             children: [
 
 
-              /// ✅ Delivery Address
+              /// Delivery Address
               Card(
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
                 child: ListTile(
